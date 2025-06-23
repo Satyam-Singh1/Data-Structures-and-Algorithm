@@ -30,6 +30,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,8 +77,22 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
