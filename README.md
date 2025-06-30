@@ -109,4 +109,20 @@
 |  |
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
