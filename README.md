@@ -115,12 +115,14 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -132,9 +134,18 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
