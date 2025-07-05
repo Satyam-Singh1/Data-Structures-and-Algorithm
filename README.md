@@ -37,6 +37,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
