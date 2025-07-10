@@ -5,7 +5,7 @@ class Solution {
 
     class Pair {
         int node;
-        long dist;  // ✅ Make distance long to match dist[]
+        long dist; 
 
         Pair(long dist, int node) {
             this.dist = dist;
