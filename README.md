@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
