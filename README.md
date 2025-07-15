@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
@@ -169,6 +170,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -192,4 +194,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
