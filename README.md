@@ -23,6 +23,7 @@
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -38,6 +39,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
