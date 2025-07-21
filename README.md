@@ -11,6 +11,7 @@
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
