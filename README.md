@@ -30,6 +30,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0826-soup-servings) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -53,6 +54,7 @@
 | [0940-fruit-into-baskets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -75,6 +77,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
 |  |
