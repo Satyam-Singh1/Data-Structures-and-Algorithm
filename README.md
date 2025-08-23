@@ -58,6 +58,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
@@ -81,6 +82,7 @@
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
 |  |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
