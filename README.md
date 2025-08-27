@@ -35,6 +35,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
