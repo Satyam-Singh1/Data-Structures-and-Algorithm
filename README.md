@@ -205,6 +205,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0826-soup-servings](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0826-soup-servings) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
