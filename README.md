@@ -142,6 +142,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 ## Sorting
@@ -260,5 +261,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
