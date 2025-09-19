@@ -10,6 +10,7 @@
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 ## Sorting
