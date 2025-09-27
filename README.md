@@ -166,6 +166,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
@@ -233,10 +234,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
@@ -254,6 +257,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
