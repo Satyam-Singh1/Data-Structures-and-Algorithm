@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0826-soup-servings) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -285,6 +287,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
