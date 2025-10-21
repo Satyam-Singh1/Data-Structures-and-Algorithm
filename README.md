@@ -294,4 +294,8 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
