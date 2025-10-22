@@ -299,4 +299,5 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0177-nth-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
