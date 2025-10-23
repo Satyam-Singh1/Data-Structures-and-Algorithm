@@ -304,4 +304,5 @@
 | [0627-swap-salary](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1174-sales-analysis-iii) |
+| [1258-article-views-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
