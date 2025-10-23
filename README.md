@@ -303,4 +303,5 @@
 | [0595-big-countries](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1174-sales-analysis-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1174-sales-analysis-iii) |
 <!---LeetCode Topics End-->
