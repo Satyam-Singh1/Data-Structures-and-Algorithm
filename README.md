@@ -178,6 +178,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
@@ -261,6 +262,7 @@
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -274,6 +276,7 @@
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -315,6 +319,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Database
 |  |
