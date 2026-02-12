@@ -53,6 +53,7 @@
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0165-compare-version-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
@@ -165,6 +167,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
