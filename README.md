@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0693-binary-number-with-alternating-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
