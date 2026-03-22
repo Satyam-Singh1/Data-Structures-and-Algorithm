@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -247,6 +248,7 @@
 | [0009-palindrome-number](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0826-soup-servings) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0693-binary-number-with-alternating-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
