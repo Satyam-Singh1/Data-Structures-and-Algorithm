@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
