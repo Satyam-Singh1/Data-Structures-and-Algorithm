@@ -10,6 +10,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
