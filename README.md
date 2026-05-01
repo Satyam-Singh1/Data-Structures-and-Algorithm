@@ -18,6 +18,7 @@
 | [0165-compare-version-numbers](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0165-compare-version-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -174,6 +175,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 ## Sorting
