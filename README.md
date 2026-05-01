@@ -22,6 +22,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3617-find-the-original-typed-string-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
 | ------- |
