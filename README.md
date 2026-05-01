@@ -18,6 +18,7 @@
 | [0165-compare-version-numbers](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0165-compare-version-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
