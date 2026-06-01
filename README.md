@@ -8,6 +8,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0058-length-of-last-word) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
@@ -354,4 +356,8 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1258-article-views-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
