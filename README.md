@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0097-interleaving-string) |
@@ -62,6 +63,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0771-jewels-and-stones) |
@@ -185,6 +188,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
