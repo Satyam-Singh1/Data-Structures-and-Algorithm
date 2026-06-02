@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
