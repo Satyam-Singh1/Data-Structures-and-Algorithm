@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -139,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
