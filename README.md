@@ -34,6 +34,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0072-edit-distance) |
@@ -66,6 +67,7 @@
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Merge Sort
 |  |
