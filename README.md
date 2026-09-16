@@ -46,6 +46,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0826-soup-servings) |
@@ -83,6 +84,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
@@ -130,6 +133,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -141,6 +145,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
 | ------- |
