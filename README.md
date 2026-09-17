@@ -9,6 +9,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
@@ -351,6 +352,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
