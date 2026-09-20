@@ -21,10 +21,10 @@ class Solution {
         return 1+Math.max(leftMax,rightMax);
     }
     public boolean isBalanced(TreeNode root) {
-        if (root == null) return true;
+        if(root==null) return true;
         int leftHeight = findHeight(root.left);
         int rightHeight = findHeight(root.right);
-         if(Math.abs(leftHeight-rightHeight)>1) return false;
-        return (isBalanced(root.left)&&isBalanced(root.right));
+        if(Math.abs(leftHeight-rightHeight)>1)return false;
+        return isBalanced(root.left) && isBalanced(root.right);
     }
 }
