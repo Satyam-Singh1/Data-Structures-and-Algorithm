@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0110-balanced-binary-tree) |
@@ -407,4 +410,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
