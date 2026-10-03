@@ -1,25 +1,21 @@
 class Solution {
     List<List<Integer>> res = new ArrayList<>();
 
-    public void solve(int idx , int []nums , ArrayList<Integer>curr ){
-        if(idx>=nums.length){
-        //    List<Integer>temp = new ArrayList<>(curr);
-           res.add(new ArrayList<>(curr));
+    public void helper(int i , ArrayList<Integer>list , int []nums){
+        if(i>=nums.length){
+            res.add(new ArrayList<>(list));
             return;
         }
-       
-       solve(idx+1 , nums , curr);
-
-        curr.add(nums[idx]);
-       solve(idx+1 , nums ,curr);
-       curr.remove(curr.size()-1);
-       
-
-       
+        //pick
+        list.add(nums[i]);
+        helper(i+1, list, nums);
+        list.remove(list.size()-1);
+        //not pick
+        helper(i+1,list , nums);
     }
-
     public List<List<Integer>> subsets(int[] nums) {
-        solve(0, nums, new ArrayList<>());
+        helper(0,new ArrayList<>() , nums);
         return res;
+
     }
 }
