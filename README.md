@@ -74,6 +74,7 @@
 | [0053-maximum-subarray](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0693-binary-number-with-alternating-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -352,6 +354,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
 | ------- |
