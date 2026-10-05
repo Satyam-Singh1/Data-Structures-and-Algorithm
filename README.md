@@ -239,6 +239,7 @@
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
@@ -257,6 +258,7 @@
 | [0226-invert-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
@@ -420,4 +422,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
