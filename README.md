@@ -248,6 +248,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -267,6 +268,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -426,8 +428,10 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
