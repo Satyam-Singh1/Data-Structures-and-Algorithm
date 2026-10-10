@@ -244,6 +244,7 @@
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -264,6 +265,7 @@
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -428,10 +430,20 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
