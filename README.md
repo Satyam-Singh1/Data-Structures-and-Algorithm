@@ -243,6 +243,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -264,6 +265,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -294,11 +296,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -436,6 +440,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -446,4 +451,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
