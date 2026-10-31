@@ -96,6 +96,7 @@
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0959-3sum-with-multiplicity) |
+| [0994-rotting-oranges](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -129,6 +130,7 @@
 | [0036-valid-sudoku](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -278,6 +280,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
