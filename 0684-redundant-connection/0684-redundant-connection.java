@@ -1,43 +1,37 @@
 class Solution {
-    public int findParent(int x, int[] parent) {
-        if (x == parent[x])
-            return x;
-        return parent[x] = findParent(parent[x], parent);
-    }
+    List<List<Integer>>adj = new ArrayList<>();
+    public boolean dfs(int node , int target , int []vis){
+        if(node==target) return true;
 
-    public boolean union(int x, int y, int[] parent, int[] rank) {
-        int xPar = findParent(x, parent);
-        int yPar = findParent(y, parent);
-        if (xPar == yPar)
-            return false;
-        int xRank = rank[xPar];
-        int yRank = rank[yPar];
-        if (xRank > yRank) {
-            parent[yPar] = parent[xPar];
-        } else if (yRank > xRank) {
-            parent[xPar] = parent[yPar];
-        } else {
-            parent[xPar] = parent[yPar];
-            rank[yPar]++;
+        vis[node] = 1;
+        for(int neig : adj.get(node)){
+            if(vis[neig]==0){
+                if(dfs(neig , target , vis)) return true;
+            }
         }
-        return true;
+        return false;
     }
-
     public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
-        int[] parent = new int[n + 1];
-        int[] rank = new int[n + 1];
-        for (int i = 0; i <= n; i++) {
-            parent[i] = i;
-        }
-        int []ans = new int[2];
-        for (int i = 0; i < n; i++) {
-            if (!union(edges[i][0], edges[i][1], parent, rank)) {
-              ans[0] = edges[i][0];
-              ans[1]= edges[i][1];
-              }
-            }
+        int m = edges[0].length;
         
-        return ans;
+        for(int i = 0 ; i <= n ; i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int []edge : edges){
+            int u = edge[0];
+            int v = edge[1];
+
+            int []vis = new int[n+1];
+            if(dfs(u,v, vis)){
+                return new int[]{u,v};
+            }
+
+
+            //else
+            adj.get(u).add(v);
+            adj.get(v).add(u);
+        }
+        return new int[]{-1,-1};
     }
 }
