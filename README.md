@@ -455,12 +455,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam-Singh1/Data-Structures-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
